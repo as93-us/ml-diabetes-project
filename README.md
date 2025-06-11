@@ -45,9 +45,7 @@ Celem projektu było stworzenie modeli klasyfikacyjnych, które na podstawie dan
 - Oba modele osiągnęły przyzwoitą skuteczność bez zaawansowanego strojenia parametrów.
 - Najważniejszymi cechami okazały się: poziom glukozy, BMI i wiek.
 - Projekt pokazał, jak w prosty sposób można zbudować model klasyfikacyjny w Pythonie.
-
-## 📂 Zawartość repozytorium
-
+  
 ## 📂 Zawartość repozytorium
 
 - [`diabetes.ipynb`](./diabetes.ipynb) – notebook z kodem analizy i modelowania
