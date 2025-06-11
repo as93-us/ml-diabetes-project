@@ -40,8 +40,6 @@ Celem projektu było stworzenie modeli klasyfikacyjnych, które na podstawie dan
 | Drzewo decyzyjne    | ~72%     |
 | Regresja logistyczna| ~75%    |
 
-(Możesz wpisać rzeczywiste wartości)
-
 ## ✅ Wnioski
 
 - Oba modele osiągnęły przyzwoitą skuteczność bez zaawansowanego strojenia parametrów.
