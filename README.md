@@ -7,7 +7,7 @@ Projekt uczenia maszynowego mający na celu przewidzenie wystąpienia cukrzycy n
 Użyty zbiór danych pochodzi z repozytorium UCI i jest dostępny także na Kaggle:
 - https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
-Plik: `diabetes.csv`  
+Plik: [Kliknij tutaj, aby otworzyć notebook z kodem](./diabetes.ipynb)  
 Zawiera dane dotyczące 768 kobiet z plemienia Pima w wieku powyżej 21 lat.
 
 ## 🎯 Cel projektu
