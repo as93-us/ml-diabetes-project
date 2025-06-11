@@ -48,9 +48,10 @@ Celem projektu było stworzenie modeli klasyfikacyjnych, które na podstawie dan
 
 ## 📂 Zawartość repozytorium
 
-- `diabetes.csv` – dane wejściowe
-- `diabetes.ipynb` – kod i analiza
-- `README.md` – opis projektu
+## 📂 Zawartość repozytorium
+
+- [`diabetes.ipynb`](./diabetes.ipynb) – notebook z kodem analizy i modelowania
+- [`diabetes.csv`](./diabetes.csv) – dane wejściowe do modelu
 
 ## 👩‍💻 Autor
 
