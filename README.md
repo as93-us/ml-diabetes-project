@@ -53,5 +53,5 @@ Celem projektu było stworzenie modeli klasyfikacyjnych, które na podstawie dan
 
 ## 👩‍💻 Autor
 
-Projekt wykonany w ramach ćwiczeń z przedmiotu *Sztuczna inteligencja / Uczenie maszynowe*.
+Projekt wykonany w ramach ćwiczeń z przedmiotu *Sztuczna inteligencja*.
 
